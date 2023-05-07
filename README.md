@@ -7,7 +7,7 @@ The vast majority of this (Seasons 1 - 6) are snagged from his [PD2 Converter](h
 Current season will likely not be included until shortly before the following season's beta. If I were to do that, I would very much want to make a rollback for every patch that happens, which is much too unrealistic.
 
 ---
-## Direct download links:
+## Direct download links
 ### [Season 6](https://github.com/xkanzeon/PD2-rollbacks/blob/main/zips/PD2-Season6.zip)
 
 <details>
@@ -26,7 +26,7 @@ Current season will likely not be included until shortly before the following se
 For most reasonable use cases, though, just extracting the relevant zip  into your PD2 folder should be sufficient.
 
 ---
-### Notes:
+### Notes
 Some of the more dramatic season rollbacks will likely take a little more involved work to get to function.
 I can't think of these steps off the top of my head, but will add instructions as I come across them again.
 
